@@ -1,11 +1,11 @@
 # Armatron Exploitation Tool v1.0
 
-Overview
+## Overview
 
 The Armatron Exploitation Tool (ArmExploit) is a powerful script designed for conducting targeted web exploitation. It facilitates sending HTTP requests with customizable parameters such as payloads, user-agents, headers, and cookies to identify vulnerabilities and potentially exploit them.
 Features
 
-    Flexible Configuration: Customize HTTP requests with various parameters including payloads, user-agents, headers, and cookies.
+Flexible Configuration: Customize HTTP requests with various parameters including payloads, user-agents, headers, and cookies.
     Concurrent Exploitation: Execute multiple exploit attempts concurrently to enhance efficiency.
     Payload and User-Agent Management: Load payloads and user-agents from external files for easy management and customization.
     HTTP Method Support: Supports common HTTP methods including GET, POST, PUT, and DELETE.
@@ -13,34 +13,39 @@ Features
     Verbose and Debug Modes: Enable verbose and debug modes for detailed logging and debugging information.
     SSL Certificate Verification: Option to enable or disable SSL certificate verification for target URLs.
 
-Usage
+## Usage
 Installation
 
-    Clone the repository:
+Clone the repository:
 
-    bash
+```bash
 
-git clone https://github.com/yourusername/armatron.git
+ git clone https://github.com/yourusername/armatron.git
+```
 
 Navigate to the project directory:
 
-bash
+```bash
 
 cd armatron
+```
 
 Install the required dependencies:
 
-bash
+```bash
 
     pip install -r requirements.txt
+```
 
 Usage
 
 Run the script using the following command:
 
-bash
+```bash
 
-python armatron.py [options]
+python3 Armatron.py --help
+
+```
 
 Replace [options] with the desired command-line options to customize the exploit parameters.
 Command-line Options
