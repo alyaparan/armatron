@@ -1,11 +1,8 @@
-# armatron
-ArmExploit: A powerful Python script for targeted web exploitation. Conduct HTTP requests with customizable parameters to identify and potentially exploit vulnerabilities.
-
-Armatron Exploitation Tool v1.0
+# Armatron Exploitation Tool v1.0
 
 Overview
 
-The Armatron Exploitation Tool is a powerful script designed for conducting targeted web exploitation. It facilitates sending HTTP requests with customizable parameters such as payloads, user-agents, headers, and cookies to identify vulnerabilities and potentially exploit them.
+The Armatron Exploitation Tool (ArmExploit) is a powerful script designed for conducting targeted web exploitation. It facilitates sending HTTP requests with customizable parameters such as payloads, user-agents, headers, and cookies to identify vulnerabilities and potentially exploit them.
 Features
 
     Flexible Configuration: Customize HTTP requests with various parameters including payloads, user-agents, headers, and cookies.
