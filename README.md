@@ -27,7 +27,7 @@ Clone the repository:
 
 ```bash
 
-git clone https://github.com/yourusername/armatron.git
+git clone https://github.com/alyaparan/armatron.git
 ```
 
 Navigate to the project directory:
