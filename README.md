@@ -27,7 +27,7 @@ Clone the repository:
 
 ```bash
 
- git clone https://github.com/yourusername/armatron.git
+git clone https://github.com/yourusername/armatron.git
 ```
 
 Navigate to the project directory:
@@ -79,6 +79,6 @@ Replace [options] with the desired command-line options to customize the exploit
 - --retries: Specify the number of retries for failed requests (default: 3).
 - --output-file: Specify the output file to save the results.
 
-Disclaimer
+## Disclaimer
 
 The Armatron Exploitation Tool is for educational purposes only. Use it responsibly and legally. The developer assumes no liability for any misuse or damage caused by the tool.
