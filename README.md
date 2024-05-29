@@ -7,17 +7,17 @@ Features
 
 Flexible Configuration: Customize HTTP requests with various parameters including payloads, user-agents, headers, and cookies.
 
-    - Concurrent Exploitation: Execute multiple exploit attempts concurrently to enhance efficiency.
+- Concurrent Exploitation: Execute multiple exploit attempts concurrently to enhance efficiency.
     
-    - Payload and User-Agent Management: Load payloads and user-agents from external files for easy management and customization.
+- Payload and User-Agent Management: Load payloads and user-agents from external files for easy management and customization.
     
-    - HTTP Method Support: Supports common HTTP methods including GET, POST, PUT, and DELETE.
+- HTTP Method Support: Supports common HTTP methods including GET, POST, PUT, and DELETE.
     
-    - HTTP Basic Authentication: Optionally provide HTTP basic authentication credentials for accessing protected resources.
+- HTTP Basic Authentication: Optionally provide HTTP basic authentication credentials for accessing protected resources.
     
-    - Verbose and Debug Modes: Enable verbose and debug modes for detailed logging and debugging information.
+- Verbose and Debug Modes: Enable verbose and debug modes for detailed logging and debugging information.
     
-    - SSL Certificate Verification: Option to enable or disable SSL certificate verification for target URLs.
+- SSL Certificate Verification: Option to enable or disable SSL certificate verification for target URLs.
 
 ## Usage
 Installation
