@@ -60,24 +60,24 @@ Replace [options] with the desired command-line options to customize the exploit
 
 - --url: Specify the target URL (default: http://target-server.com).
 - --uri: Specify the target URI (default: /).
---method: Specify the HTTP method to use (default: POST).
---param: Specify parameters.
---value: Specify parameter values.
---cookie: Specify cookies.
---payload-file: Specify the file containing payloads (default: payloads.txt).
---user-agents-file: Specify the file containing user agents (default: user_agents.txt).
---headers: Specify custom headers as key-value pairs separated by ':'.
---proxy: Specify the proxy server URL.
---auth: Specify HTTP basic authentication credentials as username and password.
---verbose: Enable verbose mode.
---debug: Enable debug mode.
---concurrency: Specify the number of concurrent threads (default: 10).
---no-ssl-verify: Disable SSL certificate verification.
---interactive: Enable interactive mode.
---rate-limit: Specify the requests per second rate limit (default: 0, no limit).
---timeout: Specify the timeout for each request in seconds (default: 10).
---retries: Specify the number of retries for failed requests (default: 3).
---output-file: Specify the output file to save the results.
+- --method: Specify the HTTP method to use (default: POST).
+- --param: Specify parameters.
+- --value: Specify parameter values.
+- --cookie: Specify cookies.
+- --payload-file: Specify the file containing payloads (default: payloads.txt).
+- --user-agents-file: Specify the file containing user agents (default: user_agents.txt).
+- --headers: Specify custom headers as key-value pairs separated by ':'.
+- --proxy: Specify the proxy server URL.
+- --auth: Specify HTTP basic authentication credentials as username and password.
+- --verbose: Enable verbose mode.
+- --debug: Enable debug mode.
+- --concurrency: Specify the number of concurrent threads (default: 10).
+- --no-ssl-verify: Disable SSL certificate verification.
+- --interactive: Enable interactive mode.
+- --rate-limit: Specify the requests per second rate limit (default: 0, no limit).
+- --timeout: Specify the timeout for each request in seconds (default: 10).
+- --retries: Specify the number of retries for failed requests (default: 3).
+- --output-file: Specify the output file to save the results.
 
 Disclaimer
 
