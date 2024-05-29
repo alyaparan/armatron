@@ -82,3 +82,15 @@ Replace [options] with the desired command-line options to customize the exploit
 ## Disclaimer
 
 The Armatron Exploitation Tool is for educational purposes only. Use it responsibly and legally. The developer assumes no liability for any misuse or damage caused by the tool.
+
+## Contribution
+
+If you have suggestions or improvements, feel free to contribute. Follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## License
+
+This project is licensed under the License 2.0 apache github - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Contact
+
+For questions or concerns, you can contact the project creator at Website www.alikparanyan.com or Email mail@alikparanyan.com or personal gmail alikparanyan@gmail.com.
