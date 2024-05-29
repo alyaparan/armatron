@@ -58,7 +58,7 @@ Replace [options] with the desired command-line options to customize the exploit
 
 ## Command-line Options
 
-- --url: Specify the target URL (default: http://target-server.com).
+- --url: Specify the target URL (default: http:// target-server.com).
 - --uri: Specify the target URI (default: /).
 - --method: Specify the HTTP method to use (default: POST).
 - --param: Specify parameters.
